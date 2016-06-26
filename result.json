@@ -1,0 +1,55 @@
+{
+	"parameters": [{
+		"name": "Device.DeviceInfo.Webpa.",
+		"value": [{
+			"name": "Device.DeviceInfo.Webpa.Enable",
+			"value": "true",
+			"dataType": 3
+		}, {
+			"name": "Device.DeviceInfo.Webpa.ServerURL",
+			"value": "fabric-beta.webpa.comcast.net",
+			"dataType": 0
+		}, {
+			"name": "Device.DeviceInfo.Webpa.ServerPort",
+			"value": "8080",
+			"dataType": 1
+		}, {
+			"name": "Device.DeviceInfo.Webpa.DeviceNetworkInterface",
+			"value": "erouter0",
+			"dataType": 0
+		}, {
+			"name": "Device.DeviceInfo.Webpa.RetryIntervalInSec",
+			"value": "10",
+			"dataType": 1
+		}, {
+			"name": "Device.DeviceInfo.Webpa.MaxPingWaitTimeInSec",
+			"value": "180",
+			"dataType": 1
+		}, {
+			"name": "Device.DeviceInfo.Webpa.X_COMCAST-COM_CMC",
+			"value": "417",
+			"dataType": 2
+		}, {
+			"name": "Device.DeviceInfo.Webpa.X_COMCAST-COM_CID",
+			"value": "0",
+			"dataType": 0
+		}, {
+			"name": "Device.DeviceInfo.Webpa.X_COMCAST-COM_SyncProtocolVersion",
+			"value": "0",
+			"dataType": 0
+		}],
+		"dataType": 11,
+		"parameterCount": 9,
+		"message": "Success"
+	}],
+	"statusCode": 200
+}
+
+
+
+Name   dataType 
+
+
+x2        y
+y
+x1        
